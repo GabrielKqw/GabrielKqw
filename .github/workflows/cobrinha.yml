@@ -1,14 +1,25 @@
-name: Snake game
+name: Cobrinha
 
-on: [push]
+on:
+  push:
+    branches:
+      - main
 
 jobs:
-  build:
+  cobrinha:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Set up repository
-      uses: actions/checkout@v2
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
 
-    - name: Play Snake
-      uses: actions/gh-snake@v1
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run Cobrinha
+        run: python cobrinha.py
