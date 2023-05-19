@@ -9,17 +9,14 @@ jobs:
   cobrinha:
     runs-on: ubuntu-latest
 
-    steps:
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
+    container:
+      image: python:3.9
 
+    steps:
       - name: Checkout repository
         uses: actions/checkout@v2
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
-
       - name: Run Cobrinha
-        run: python cobrinha.py
+        run: |
+          pip install pygame
+          python cobrinha.py
