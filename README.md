@@ -29,3 +29,4 @@ Looking forward to collaborating with you! ✨
 
 Best regards,
 Gabriel
+![snake gif](https://github.com/GabrielKqw?tab=repositories/blob/output/github-contribution-grid-snake.svg)
