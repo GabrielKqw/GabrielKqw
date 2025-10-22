@@ -1,29 +1,69 @@
 # Gabriel
+👋 Sobre mim
 
-## Introduction
-Hey there! 👋 My name is Gabriel, and I'm a software developer with experience in various technologies. I have knowledge in Node.js, TypeScript, JavaScript, SQL, PHP, React, Next.js, Nest.js, and Jest. I've been working professionally in the field for 6 months, and I'm the owner of the Gtichat project.
+Fala! Eu sou o Gabriel Henrique, desenvolvedor de software e completamente viciado em tecnologia.
+Gosto de entender como as coisas funcionam por trás, quebrar a cabeça com problemas e ver um projeto nascer do zero até estar rodando de verdade.
 
-## Gtichat Project
-🤖 Gtichat is an exciting project that I've been working on. It's a chatbot integrated with WhatsApp and is currently under development. The project utilizes Nest.js and React to build a robust and user-friendly chatbot experience.
+Trabalho profissionalmente há cerca de 6 meses, mas venho estudando e desenvolvendo projetos há bem mais tempo.
+Meu foco principal é backend, mas curto entender o todo — do banco de dados até o frontend.
 
-## Technologies and Skills
-Here are some technologies and skills I'm proficient in:
+💻 O que eu uso no dia a dia
 
-- Node.js
-- TypeScript
-- JavaScript
-- SQL
-- PHP
-- React
-- Next.js
-- Nest.js
-- Jest
+Gosto de manter o código limpo, organizado e fácil de entender. Sempre busco seguir uma estrutura bem definida nos projetos, usando o que realmente faz sentido pra cada caso.
 
-## Contact
-If you would like to get in touch with me or learn more about my work, feel free to reach out to me via email at gabrielkqw@gmail.com. I'm always excited to connect with fellow developers and explore new opportunities.
+Algumas tecnologias que costumo usar:
 
-Looking forward to collaborating with you! ✨
+Node.js
 
-Best regards,
-Gabriel
-![snake gif](https://github.com/GabrielKqw/GabrielKqw/blob/output/github-contribution-grid-snake.svg)
+TypeScript
+
+JavaScript
+
+Nest.js
+
+React
+
+Next.js
+
+SQL / PostgreSQL
+
+Prisma
+
+Docker
+
+Redis
+
+Jest
+
+PHP
+
+🚀 Como eu penso desenvolvimento
+
+Pra mim, código bom é aquele que resolve o problema e continua fácil de dar manutenção depois.
+Curto trabalhar com Clean Architecture, separar bem as responsabilidades e deixar tudo o mais organizado possível.
+
+Tenho usado bastante Docker pra deixar o ambiente consistente, CI/CD com GitHub Actions, e gosto de escrever testes pra garantir que nada quebre do nada.
+Também estou sempre mexendo em projetos próprios pra testar ideias novas e melhorar como desenvolvedor.
+
+🎯 O que estou buscando
+
+Atualmente estou focado em evoluir no backend com Node.js e TypeScript, mas também quero aprender mais sobre:
+
+microsserviços
+
+autenticação avançada
+
+sistemas de pagamento e integração com APIs
+
+performance e segurança
+
+Quero crescer profissionalmente nessa área e trabalhar em projetos que realmente desafiem e façam diferença.
+
+📬 Contato
+
+Se quiser trocar ideia, colaborar em algo ou só conversar sobre tecnologia:
+📧 gabrielkqw@gmail.com
+
+Valeu por passar por aqui 😎
+
+— Gabriel Henrique
