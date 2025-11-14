@@ -2,75 +2,114 @@
 
 ## 👋 About Me
 
-Hey! I'm **Gabriel Henrique**, a software developer truly passionate about technology.  
-I love understanding how things work under the hood, solving challenging problems, and building projects from the ground up until they are fully functional in a real environment.
+Hey! I'm **Gabriel Henrique**, a Software Developer and Cybersecurity student with hands-on experience in technical support, networking, server administration, and full-stack development.
 
-I've been working professionally for about **6 months**, but I've been studying, coding, and building projects for much longer.  
-My main focus is **backend development**, but I enjoy understanding the entire ecosystem — from databases to frontend, infrastructure, and deployment workflows.
+I love understanding how systems work behind the scenes, solving real problems, and turning ideas into functional, scalable solutions.  
+Even though I’ve been working professionally for about **6 months**, I’ve been studying and building projects long before that — especially focusing on backend development with Node.js and TypeScript.
+
+My goal is to grow in backend engineering while combining my experience in infrastructure, cloud, and cybersecurity to build reliable and secure systems.
+
+---
+
+## 💼 Professional Experience
+
+### **Technical Support – Oriontec**
+- Client support for corporate systems  
+- Network and server troubleshooting  
+- Database maintenance (Firebird, IBExpert)  
+- Internal system diagnostics and user support  
+
+### **VSAT Technical Support – Super Cabo Multi**
+- Remote support for clients and technicians  
+- Diagnostics in telecom networks (OLT, ONT, ONU)  
+- Device configuration and infrastructure support  
+- Procedure documentation and technician training  
+
+### **Developer & IT Technician – Gerais Tecnologia**
+- Management and maintenance of on-premise and cloud servers (AWS)  
+- Samba service configuration, permissions, and user control  
+- Sole developer for internal enterprise solutions  
+- Development using PHP, Node.js, and C#  
+- Network administration, diagnostics, and client support  
+
+---
+
+## 🎓 Education
+
+**Cybersecurity – Anhanguera University**  
+*Currently studying*
 
 ---
 
 ## 💻 Tech Stack & Tools
 
-I like to keep my code clean, organized, and easy to maintain.  
-I always follow structured patterns and use the tools that make the most sense for each project.
+### **Languages & Frameworks**
+- Node.js  
+- TypeScript  
+- JavaScript  
+- NestJS  
+- React  
+- Next.js  
+- PHP  
+- C#  
+- Java (basic)  
 
-Technologies I use regularly:
+### **Databases**
+- PostgreSQL  
+- Firebird / IBExpert  
+- SQL in general  
 
-- **Node.js**
-- **TypeScript**
-- **JavaScript**
-- **NestJS**
-- **React**
-- **Next.js**
-- **SQL / PostgreSQL**
-- **Prisma**
-- **Docker**
-- **Redis**
-- **Jest**
-- **PHP**
-
-I also have experience with:
-
+### **Infrastructure & Networking**
 - Linux server administration  
-- AWS (deploy, maintenance, infrastructure)  
-- Firebird, IBExpert  
-- Samba (permissions, users, file sharing)  
-- Networking: **OLT / ONT / ONU**, DNS, TCP/IP  
+- Samba (sharing, permissions, users)  
+- OLT / ONT / ONU  
+- DNS, TCP/IP, network troubleshooting  
+
+### **Cloud & DevOps**
+- AWS (deployment and maintenance)  
+- Docker  
+- CI/CD (GitHub Actions)  
+- Backups and monitoring  
+
+### **Other Skills**
+- CRM  
+- Windows & Linux environments  
+- Full-cycle development as the sole developer  
+- Strong troubleshooting skills  
 
 ---
 
 ## 🚀 Development Philosophy
 
-For me, good code solves a real problem **and** remains easy to maintain over time.  
-I enjoy working with clean architecture, separation of responsibilities, and scalable folder structures.
+To me, good development means writing clean, organized, easy-to-maintain code that truly solves the problem.  
+I like structuring systems using clean architecture, separating responsibilities, and ensuring long-term scalability.
 
-Recently, I’ve been using:
+I actively use:
 
-- **Docker** to standardize development environments  
-- **GitHub Actions** for CI/CD  
-- **Automated testing** to prevent regressions  
-- Personal projects to experiment with new ideas and sharpen my skills  
+- **Docker** for consistent environments  
+- **GitHub Actions** for automated pipelines  
+- **Automated tests** to prevent unexpected regressions  
+- Personal projects to experiment with new architectures and tools  
 
 ---
 
 ## 🎯 What I'm Currently Focusing On
 
-I'm actively improving my backend knowledge with **Node.js** and **TypeScript**, and I'm also diving deeper into:
+I'm working to improve my backend expertise and learn more about:
 
 - Microservices  
-- Advanced authentication  
-- Payment systems & API integrations  
-- Performance and security best practices  
-- Scalable architectures  
+- Advanced authentication & authorization  
+- Payment systems and API integrations  
+- Application performance & security  
+- Scalable cloud architecture  
 
-I’m always looking for real challenges and projects where I can grow and deliver meaningful work.
+I'm looking for opportunities to grow professionally and contribute to impactful real-world projects.
 
 ---
 
 ## 📬 Contact
 
-If you'd like to connect, collaborate, or just talk about technology:
+If you want to connect, collaborate, or talk tech:
 
 📧 **gabrielkqw@gmail.com**
 
@@ -82,4 +121,3 @@ If you'd like to connect, collaborate, or just talk about technology:
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake.svg">
 </picture>
 
----
