@@ -1,72 +1,80 @@
-# Gabriel
-👋 Sobre mim
+# Gabriel Henrique
 
-Fala! Eu sou o Gabriel Henrique, desenvolvedor de software e completamente viciado em tecnologia.
-Gosto de entender como as coisas funcionam por trás, quebrar a cabeça com problemas e ver um projeto nascer do zero até estar rodando de verdade.
+## 👋 About Me
 
-Trabalho profissionalmente há cerca de 6 meses, mas venho estudando e desenvolvendo projetos há bem mais tempo.
-Meu foco principal é backend, mas curto entender o todo — do banco de dados até o frontend.
+Hey! I'm **Gabriel Henrique**, a software developer truly passionate about technology.  
+I love understanding how things work under the hood, solving challenging problems, and building projects from the ground up until they are fully functional in a real environment.
 
-💻 O que eu uso no dia a dia
+I've been working professionally for about **6 months**, but I've been studying, coding, and building projects for much longer.  
+My main focus is **backend development**, but I enjoy understanding the entire ecosystem — from databases to frontend, infrastructure, and deployment workflows.
 
-Gosto de manter o código limpo, organizado e fácil de entender. Sempre busco seguir uma estrutura bem definida nos projetos, usando o que realmente faz sentido pra cada caso.
+---
 
-Algumas tecnologias que costumo usar:
+## 💻 Tech Stack & Tools
 
-Node.js
+I like to keep my code clean, organized, and easy to maintain.  
+I always follow structured patterns and use the tools that make the most sense for each project.
 
-TypeScript
+Technologies I use regularly:
 
-JavaScript
+- **Node.js**
+- **TypeScript**
+- **JavaScript**
+- **NestJS**
+- **React**
+- **Next.js**
+- **SQL / PostgreSQL**
+- **Prisma**
+- **Docker**
+- **Redis**
+- **Jest**
+- **PHP**
 
-Nest.js
+I also have experience with:
 
-React
+- Linux server administration  
+- AWS (deploy, maintenance, infrastructure)  
+- Firebird, IBExpert  
+- Samba (permissions, users, file sharing)  
+- Networking: **OLT / ONT / ONU**, DNS, TCP/IP  
 
-Next.js
+---
 
-SQL / PostgreSQL
+## 🚀 Development Philosophy
 
-Prisma
+For me, good code solves a real problem **and** remains easy to maintain over time.  
+I enjoy working with clean architecture, separation of responsibilities, and scalable folder structures.
 
-Docker
+Recently, I’ve been using:
 
-Redis
+- **Docker** to standardize development environments  
+- **GitHub Actions** for CI/CD  
+- **Automated testing** to prevent regressions  
+- Personal projects to experiment with new ideas and sharpen my skills  
 
-Jest
+---
 
-PHP
+## 🎯 What I'm Currently Focusing On
 
-🚀 Como eu penso desenvolvimento
+I'm actively improving my backend knowledge with **Node.js** and **TypeScript**, and I'm also diving deeper into:
 
-Pra mim, código bom é aquele que resolve o problema e continua fácil de dar manutenção depois.
-Curto trabalhar com Clean Architecture, separar bem as responsabilidades e deixar tudo o mais organizado possível.
+- Microservices  
+- Advanced authentication  
+- Payment systems & API integrations  
+- Performance and security best practices  
+- Scalable architectures  
 
-Tenho usado bastante Docker pra deixar o ambiente consistente, CI/CD com GitHub Actions, e gosto de escrever testes pra garantir que nada quebre do nada.
-Também estou sempre mexendo em projetos próprios pra testar ideias novas e melhorar como desenvolvedor.
+I’m always looking for real challenges and projects where I can grow and deliver meaningful work.
 
-🎯 O que estou buscando
+---
 
-Atualmente estou focado em evoluir no backend com Node.js e TypeScript, mas também quero aprender mais sobre:
+## 📬 Contact
 
-microsserviços
+If you'd like to connect, collaborate, or just talk about technology:
 
-autenticação avançada
+📧 **gabrielkqw@gmail.com**
 
-sistemas de pagamento e integração com APIs
-
-performance e segurança
-
-Quero crescer profissionalmente nessa área e trabalhar em projetos que realmente desafiem e façam diferença.
-
-📬 Contato
-
-Se quiser trocar ideia, colaborar em algo ou só conversar sobre tecnologia:
-📧 gabrielkqw@gmail.com
-
-Valeu por passar por aqui 😎
-
-— Gabriel Henrique
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake-dark.svg">
@@ -74,3 +82,4 @@ Valeu por passar por aqui 😎
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake.svg">
 </picture>
 
+---
