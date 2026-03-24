@@ -114,7 +114,6 @@ If you want to connect, collaborate, or talk tech:
 📧 **gabrielkqw@gmail.com**
 
 ---
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake.svg">
