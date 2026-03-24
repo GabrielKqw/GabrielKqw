@@ -19,9 +19,7 @@ jobs:
         uses: miccy/snake-evolution@v1
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
+          outputs: dist/github-snake.svg?palette=github-dark
 
       - name: Publish generated files
         uses: crazy-max/ghaction-github-pages@v5
