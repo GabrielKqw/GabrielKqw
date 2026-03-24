@@ -1,4 +1,4 @@
-# Gabriel Costa
+# Gabriel Henrique Costa
 
 ## About
 
@@ -6,11 +6,20 @@ Software Developer with experience in technical support (N2), networking, and ba
 
 Hands-on experience in troubleshooting production systems, network diagnostics, and building backend applications using modern technologies. Strong foundation in infrastructure, combined with practical development experience, enables a broader understanding of system reliability, security, and scalability.
 
+Additionally, works with development and maintenance of Discord bots for large Brazilian communities, handling real-time systems, automation, and integrations.
+
 Currently pursuing a degree in Cybersecurity, with a professional goal of specializing in vulnerability analysis, system hardening, monitoring, and incident response.
 
 ---
 
 ## Professional Experience
+
+### Discord Bot Developer — Valorant BR & Bonfire Communities
+- Development and maintenance of bots for large-scale communities  
+- Real-time event processing and automation systems  
+- Integration with external APIs and third-party services  
+- Moderation systems, user management, and command architecture  
+- Focus on performance, reliability, and scalability  
 
 ### Technical Support N2 — Oriontec (2025 – Present)
 - Incident diagnosis and resolution in production environments  
