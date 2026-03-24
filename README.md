@@ -122,3 +122,7 @@ Focus on building maintainable, secure, and scalable systems.
 
 Email: gabrielkqw@gmail.com  
 Location: Brazil  
+---
+<p align="center">
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
+</p>
