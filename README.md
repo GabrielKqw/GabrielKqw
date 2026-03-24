@@ -114,9 +114,10 @@ If you want to connect, collaborate, or talk tech:
 📧 **gabrielkqw@gmail.com**
 
 ---
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielkqw/gabrielkqw/output/github-contribution-grid-snake.svg">
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/examples/github-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/examples/github-light.svg">
+    <img alt="Snake eating contributions" src="./assets/examples/github-dark.svg" width="100%">
+  </picture>
+</p>
