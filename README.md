@@ -1,49 +1,64 @@
-# Gabriel Costa
+# Gabriel Henrique Costa
 
-## 👋 About Me
+## About
 
-Hey! I'm **Gabriel Henrique**, a Software Developer and Cybersecurity student with hands-on experience in technical support, networking, server administration, and full-stack development.
+Software Developer with experience in technical support (N2), networking, and backend development, currently focused on cybersecurity.
 
-I love understanding how systems work behind the scenes, solving real problems, and turning ideas into functional, scalable solutions.  
-Even though I’ve been working professionally for about **6 months**, I’ve been studying and building projects long before that — especially focusing on backend development with Node.js and TypeScript.
+Hands-on experience in troubleshooting production systems, network diagnostics, and building backend applications using modern technologies. Strong foundation in infrastructure, combined with practical development experience, enables a broader understanding of system reliability, security, and scalability.
 
-My goal is to grow in backend engineering while combining my experience in infrastructure, cloud, and cybersecurity to build reliable and secure systems.
-
----
-
-## 💼 Professional Experience
-
-### **Technical Support – Oriontec**
-- Client support for corporate systems  
-- Network and server troubleshooting  
-- Database maintenance (Firebird, IBExpert)  
-- Internal system diagnostics and user support  
-
-### **VSAT Technical Support – Super Cabo Multi**
-- Remote support for clients and technicians  
-- Diagnostics in telecom networks (OLT, ONT, ONU)  
-- Device configuration and infrastructure support  
-- Procedure documentation and technician training  
-
-### **Developer & IT Technician – Gerais Tecnologia**
-- Management and maintenance of on-premise and cloud servers (AWS)  
-- Samba service configuration, permissions, and user control  
-- Sole developer for internal enterprise solutions  
-- Development using PHP, Node.js, and C#  
-- Network administration, diagnostics, and client support  
+Currently pursuing a degree in Cybersecurity, with a professional goal of specializing in vulnerability analysis, system hardening, monitoring, and incident response.
 
 ---
 
-## 🎓 Education
+## Professional Experience
 
-**Cybersecurity – Anhanguera University**  
-*Currently studying*
+### Technical Support N2 — Oriontec (2025 – Present)
+- Incident diagnosis and resolution in production environments  
+- Log analysis and SQL data validation  
+- Support for POS systems, fiscal issuance, and TEF integrations  
+- Detailed technical documentation of support cases  
+
+### Technical Support — Super Cabo Multi (2024 – 2025)
+- Network troubleshooting and connectivity diagnostics  
+- Configuration of IP, DNS, and network devices  
+- Experience with OLT, ONT, and fiber optic infrastructure  
+
+### Web Developer — Gerais Informática (2024)
+- Development and maintenance of internal systems  
+- API integration and data manipulation  
+- SQL queries, validation, and data handling  
 
 ---
 
-## 💻 Tech Stack & Tools
+## Projects
 
-### **Languages & Frameworks**
+### Familcraft — Multiplayer Game Server (Java)
+- Development and maintenance of a multiplayer server  
+- Implementation of plugins and automation systems  
+- User and permission management  
+- Performance monitoring and stability improvements  
+
+### Goularte — Discord Bots
+- Automation of workflows and server processes  
+- Development of commands and integrations  
+
+### Eletro — Payment SaaS for Discord
+- Payment system integrated with Discord  
+- Automation of sales and access delivery  
+- Transaction and user management  
+
+---
+
+## Education
+
+Cybersecurity — Anhanguera University (in progress)  
+Programming — Blue EdTech  
+
+---
+
+## Technical Skills
+
+### Backend & Development
 - Node.js  
 - TypeScript  
 - JavaScript  
@@ -54,66 +69,47 @@ My goal is to grow in backend engineering while combining my experience in infra
 - C#  
 - Java (basic)  
 
-### **Databases**
+### Databases
 - PostgreSQL  
 - Firebird / IBExpert  
-- SQL in general  
+- SQL (querying, validation, data analysis)  
 
-### **Infrastructure & Networking**
-- Linux server administration  
-- Samba (sharing, permissions, users)  
-- OLT / ONT / ONU  
-- DNS, TCP/IP, network troubleshooting  
+### Infrastructure & Networking
+- Linux and Windows environments  
+- TCP/IP, DNS  
+- OLT, ONT, fiber networks  
+- System diagnostics and troubleshooting  
 
-### **Cloud & DevOps**
+### Cloud & DevOps
 - AWS (deployment and maintenance)  
 - Docker  
-- CI/CD (GitHub Actions)  
-- Backups and monitoring  
-
-### **Other Skills**
-- CRM  
-- Windows & Linux environments  
-- Full-cycle development as the sole developer  
-- Strong troubleshooting skills  
+- CI/CD with GitHub Actions  
+- Backup and monitoring strategies  
 
 ---
 
-## 🚀 Development Philosophy
+## Engineering Approach
 
-To me, good development means writing clean, organized, easy-to-maintain code that truly solves the problem.  
-I like structuring systems using clean architecture, separating responsibilities, and ensuring long-term scalability.
+Focus on building maintainable, secure, and scalable systems.
 
-I actively use:
-
-- **Docker** for consistent environments  
-- **GitHub Actions** for automated pipelines  
-- **Automated tests** to prevent unexpected regressions  
-- Personal projects to experiment with new architectures and tools  
+- Structured backend architecture and clear separation of concerns  
+- Emphasis on reliability and fault diagnosis  
+- Automation of environments and pipelines  
+- Continuous learning through real-world projects  
 
 ---
 
-## 🎯 What I'm Currently Focusing On
+## Current Focus
 
-I'm working to improve my backend expertise and learn more about:
-
-- Microservices  
-- Advanced authentication & authorization  
+- Cybersecurity (vulnerability analysis and hardening)  
+- Backend architecture and microservices  
+- Authentication and authorization systems  
 - Payment systems and API integrations  
-- Application performance & security  
-- Scalable cloud architecture  
-
-I'm looking for opportunities to grow professionally and contribute to impactful real-world projects.
+- Cloud scalability and system performance  
 
 ---
 
-## 📬 Contact
+## Contact
 
-If you want to connect, collaborate, or talk tech:
-
-📧 **gabrielkqw@gmail.com**
-
----
-<p align="center">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
-</p>
+Email: gabrielkqw@gmail.com  
+Location: Brazil  
