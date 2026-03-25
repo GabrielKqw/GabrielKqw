@@ -1,4 +1,4 @@
-# Gabriel Henrique Costa
+# Gabriel Costa
 
 ## About
 
