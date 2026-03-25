@@ -15,13 +15,15 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v6
 
-      - name: Generate snake animation
-        uses: miccy/snake-evolution@v1
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-      - name: Publish generated files
+      - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
         with:
           target_branch: output
