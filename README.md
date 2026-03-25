@@ -124,5 +124,9 @@ Email: gabrielkqw@gmail.com
 Location: Brazil  
 ---
 <p align="center">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake-dark.svg">
+    <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
+  </picture>
 </p>
+
