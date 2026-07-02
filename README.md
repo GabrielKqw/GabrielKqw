@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="480"/>
+<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="400"/>
+&nbsp;&nbsp;
+<img src="https://media4.giphy.com/media/cl3YlaaHQ3LglIRLz9/giphy.gif" width="400"/>
 
 # Gabriel Costa
 
