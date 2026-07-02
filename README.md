@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="480"/>
 
 # Gabriel Costa
 
 ### `Backend Developer` • `Cybersecurity` • `Discord Bot Dev`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Backend+%26+Infra+Focused+%E2%9A%99%EF%B8%8F;Discord+Bot+Developer+%F0%9F%A4%96;Jujutsu+Kaisen+Fan+%E2%9C%A8)](https://git.io/typing-svg)
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Backend+%26+Infra+Focused+%E2%9A%99%EF%B8%8F;Discord+Bot+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -128,20 +122,6 @@ Currently pursuing a degree in Cybersecurity, with a professional goal of specia
                                                     <div align="center">
 
                                                     ![GitHub Streak](https://streak-stats.demolab.com?user=GabrielKqw&theme=tokyonight&hide_border=true)
-
-                                                    </div>
-
-                                                    ---
-
-                                                    <div align="center">
-
-                                                    <img src="https://user-images.githubusercontent.com/74038190/213866269-b920f52f-2a62-4d47-8c35-0c93e79a6b97.gif" width="200" />
-                                                    &nbsp;&nbsp;&nbsp;
-                                                    <img src="https://user-images.githubusercontent.com/74038190/213866269-b920f52f-2a62-4d47-8c35-0c93e79a6b97.gif" width="200" />
-
-                                                    *"Throughout Heaven and Earth, I alone am the honored one."*
-
-                                                    *— Gojo Satoru*
 
                                                     </div>
 
