@@ -2,13 +2,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<img src="https://media1.tenor.com/m/UhUGQtBzZGgAAAAd/gojo-satoru-jujutsu-kaisen.gif" width="300" height="200" style="border-radius:10px"/>
-<img src="https://media1.tenor.com/m/qmf4AhsM3_cAAAAd/itadori-yuji-jujutsu-kaisen.gif" width="300" height="200" style="border-radius:10px"/>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 # Gabriel Costa
+
 ### `Backend Developer` • `Cybersecurity` • `Discord Bot Dev`
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Backend+%26+Infra+Focused+%E2%9A%99%EF%B8%8F;Discord+Bot+Developer+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%F0%9F%92%BB;Cybersecurity+Student+%F0%9F%94%90;Backend+%26+Infra+Focused+%E2%9A%99%EF%B8%8F;Discord+Bot+Developer+%F0%9F%A4%96;Jujutsu+Kaisen+Fan+%E2%9C%A8)](https://git.io/typing-svg)
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -77,6 +79,7 @@ Currently pursuing a degree in Cybersecurity, with a professional goal of specia
                                             ## 🎓 Education
 
                                             Cybersecurity — Anhanguera University (in progress)
+
                                             Programming — Blue EdTech
 
                                             ---
@@ -132,9 +135,12 @@ Currently pursuing a degree in Cybersecurity, with a professional goal of specia
 
                                                     <div align="center">
 
-                                                    <img src="https://media1.tenor.com/m/UhUGQtBzZGgAAAAd/gojo-satoru-jujutsu-kaisen.gif" width="120"/>
+                                                    <img src="https://user-images.githubusercontent.com/74038190/213866269-b920f52f-2a62-4d47-8c35-0c93e79a6b97.gif" width="200" />
+                                                    &nbsp;&nbsp;&nbsp;
+                                                    <img src="https://user-images.githubusercontent.com/74038190/213866269-b920f52f-2a62-4d47-8c35-0c93e79a6b97.gif" width="200" />
 
                                                     *"Throughout Heaven and Earth, I alone am the honored one."*
+
                                                     *— Gojo Satoru*
 
                                                     </div>
@@ -143,15 +149,19 @@ Currently pursuing a degree in Cybersecurity, with a professional goal of specia
 
                                                     ## 📬 Contact
 
+                                                    <div align="center">
+
                                                     [![Gmail](https://img.shields.io/badge/gabrielkqw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielkqw@gmail.com)
                                                     ![Location](https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)
+
+                                                    </div>
 
                                                     ---
 
                                                     <p align="center">
                                                     <picture>
-                                                      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake-dark.svg">
-                                                      <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
+                                                        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake-dark.svg">
+                                                        <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake.svg" width="100%">
                                                     </picture>picture>
                                                     </p>p>
                                                     </picture>
