@@ -2,8 +2,6 @@
 
 <img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="260"/>
 &nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo2.gif" width="260"/>
-&nbsp;&nbsp;
 <img src="https://media4.giphy.com/media/cl3YlaaHQ3LglIRLz9/giphy.gif" width="260"/>
 
 # Gabriel Costa
