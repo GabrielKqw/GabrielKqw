@@ -69,9 +69,8 @@ Web application for the Bonfire community, with authentication and Discord-orien
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielKqw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Gabriel's GitHub stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKqw&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+![Followers](https://img.shields.io/github/followers/GabrielKqw?style=for-the-badge&logo=github&label=Followers&color=6e40c9)
+![Public repositories](https://img.shields.io/badge/Public_repositories-82-6e40c9?style=for-the-badge&logo=github)
 
 <br/><br/>
 
