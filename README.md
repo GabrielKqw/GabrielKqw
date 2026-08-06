@@ -64,6 +64,25 @@ Web application for the Bonfire community, with authentication and Discord-orien
 - **Cybersecurity** — Anhanguera University, in progress
 - **Programming** — Blue EdTech
 
+
+## GitHub activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielKqw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Gabriel's GitHub stats"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKqw&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Most used languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=GabrielKqw&theme=tokyonight&hide_border=true" width="600" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
 ---
 
 <div align="center">
