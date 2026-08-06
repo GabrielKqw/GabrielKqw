@@ -1,144 +1,72 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="260"/>
+<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/main/gojo.gif" width="260" alt="Gojo animation"/>
 &nbsp;&nbsp;
-<img src="https://media4.giphy.com/media/cl3YlaaHQ3LglIRLz9/giphy.gif" width="260"/>
+<img src="https://media4.giphy.com/media/cl3YlaaHQ3LglIRLz9/giphy.gif" width="260" alt="Developer animation"/>
 
 # Gabriel Costa
 
-### `Backend Developer` • `Cybersecurity` • `Discord Bot Dev`
+**Backend Developer · Cybersecurity Student**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Cybersecurity+Student;Backend+%26+Infra+Focused;Discord+Bot+Developer)](https://git.io/typing-svg)
+I build reliable backend systems, automations, and integrations with a focus on security, observability, and maintainability.
+
+[![Email](https://img.shields.io/badge/Email-gabrielkqw%40gmail.com-24292f?style=flat-square&logo=gmail&logoColor=white)](mailto:gabrielkqw@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-GabrielKqw-24292f?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielKqw)
 
 </div>
 
----
+## About me
 
-## About
+I am a software developer with hands-on experience in backend development, production support, networking, and real-time automation. My infrastructure background helps me approach software with attention to reliability, troubleshooting, security, and scalability.
 
-Software Developer with experience in technical support (N2), networking, and backend development, currently focused on cybersecurity.
+I currently work in N2 technical support and develop Discord bots and integrations for Brazilian online communities. I am also pursuing a degree in Cybersecurity, focusing on vulnerability analysis, system hardening, monitoring, and incident response.
 
-Hands-on experience in troubleshooting production systems, network diagnostics, and building backend applications using modern technologies. Strong foundation in infrastructure, combined with practical development experience, enables a broader understanding of system reliability, security, and scalability.
+## Selected projects
 
-Additionally, works with development and maintenance of Discord bots for large Brazilian communities, handling real-time systems, automation, and integrations.
+### NotifyEngine
 
-Currently pursuing a degree in Cybersecurity, with a professional goal of specializing in vulnerability analysis, system hardening, monitoring, and incident response.
+Open-source, self-hosted notification automation engine built as a NestJS monorepo. It combines an HTTP API, background workers, PostgreSQL persistence, Redis queues, retry handling, idempotent executions, and encrypted SMTP credentials.
 
----
+**Stack:** TypeScript · NestJS · Prisma · PostgreSQL · Redis · BullMQ · Docker
 
-## Professional Experience
+### EletroFlow
 
-### Discord Bot Developer — Valorant BR & Bonfire Communities
-- Development and maintenance of bots for large-scale communities
-- Real-time event processing and automation systems
-- Integration with external APIs and third-party services
-- Moderation systems, user management, and command architecture
-- Focus on performance, reliability, and scalability
+Payment workflow for Minecraft communities that connects Discord, Pix checkout, PostgreSQL, LuckPerms, and a Paper plugin. It automates charge generation, payment approval, access delivery, receipts, and audit records.
 
-### Technical Support N2 — Oriontec (2025 – Present)
-- Incident diagnosis and resolution in production environments
-- Log analysis and SQL data validation
-- Support for POS systems, fiscal issuance, and TEF integrations
-- Detailed technical documentation of support cases
+**Stack:** Java · Paper · JDA · PostgreSQL · Efi Pix · LuckPerms
 
-### Technical Support — Super Cabo Multi (2024 – 2025)
-- Network troubleshooting and connectivity diagnostics
-- Configuration of IP, DNS, and network devices
-- Experience with OLT, ONT, and fiber optic infrastructure
+### Bonfireplus
 
-### Web Developer — Gerais Informática (2024)
-- Development and maintenance of internal systems
-- API integration and data manipulation
-- SQL queries, validation, and data handling
+Web application for the Bonfire community, with authentication and Discord-oriented setup flows.
 
----
+**Stack:** TypeScript · React · Vite
 
-## Projects
+## Experience
 
-### Familcraft — Multiplayer Game Server (Java)
-- Development and maintenance of a multiplayer server
-- Implementation of plugins and automation systems
-- User and permission management
-- Performance monitoring and stability improvements
+- **N2 Technical Support — Oriontec** (2025–present): production incident diagnosis, log analysis, SQL validation, POS systems, fiscal issuance, and TEF integrations.
+- **Discord Bot Developer — Brazilian communities:** real-time event processing, moderation workflows, external APIs, automation, and user management.
+- **Technical Support — Super Cabo Multi** (2024–2025): network diagnostics, IP and DNS configuration, OLT, ONT, and fiber infrastructure.
+- **Web Developer — Gerais Informática** (2024): internal systems, API integrations, SQL queries, and data validation.
 
-### Goularte — Discord Bots
-- Automation of workflows and server processes
-- Development of commands and integrations
+## Core technologies
 
-### Eletro — Payment SaaS for Discord
-- Payment system integrated with Discord
-- Automation of sales and access delivery
-- Transaction and user management
+`TypeScript` · `Node.js` · `NestJS` · `Java` · `PostgreSQL` · `Redis` · `Docker` · `Linux` · `GitHub Actions`
 
----
+## Current focus
+
+- Secure backend architecture and API design
+- Authentication, authorization, and system hardening
+- Event-driven automation and background processing
+- Monitoring, incident response, and production reliability
 
 ## Education
 
-Cybersecurity — Anhanguera University (in progress)
-
-Programming — Blue EdTech
+- **Cybersecurity** — Anhanguera University, in progress
+- **Programming** — Blue EdTech
 
 ---
-
-## Tech Stack
 
 <div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
+Open to backend, infrastructure, and cybersecurity opportunities in Brazil or remotely.<br/>
+<a href="mailto:gabrielkqw@gmail.com">gabrielkqw@gmail.com</a>
 </div>
-
----
-
-## Current Focus
-
-- Cybersecurity (vulnerability analysis and hardening)
-- Backend architecture and microservices
-- Authentication and authorization systems
-- Payment systems and API integrations
-- Cloud scalability and system performance
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielKqw&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielKqw&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=GabrielKqw&theme=tokyonight&hide_border=true" width="600"/>
-
-</div>
-
----
-
-## Contact
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/gabrielkqw@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielkqw@gmail.com)
-![Location](https://img.shields.io/badge/Brazil-009739?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
-
----
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/GabrielKqw/GabrielKqw/output/github-snake-dark.svg" width="100%"/>
-</p>
